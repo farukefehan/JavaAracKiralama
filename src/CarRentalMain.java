@@ -5,6 +5,7 @@ public class CarRentalMain {
     static Scanner scan = new Scanner(System.in);
     static int dummyCount=0;// dummy olayini engellemek icin sayacim
 
+    
     public static void main(String[] args) {
 
 
@@ -223,9 +224,6 @@ public class CarRentalMain {
         }if(secim2 == 3 || secim3 ==2){
             cikis();
         }
-
-
-
 
 
     }
