@@ -13,12 +13,6 @@ public class CarRental {
     public static List<Integer>sepettekiAracYil=new ArrayList();
     public static List<Double> sepettekiAracFiyatlari=new ArrayList();
     public static List<Integer> sepettekiAracKm=new ArrayList();
-    String  marka;
-    String model;
-    int yil;
-    int km;
-    int gunlukFiyat;
-    int gunSayisi;
     private String admin="admin";
     private String sifre = "1453";
 
