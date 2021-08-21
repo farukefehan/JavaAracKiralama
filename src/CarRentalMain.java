@@ -17,7 +17,7 @@ public class CarRentalMain {
                 + " |_/ \\________/ \\___|\r\n"
                 + "___\\_/________\\_/______");
         System.out.println("---------------------------------------------------------------------------------------------------------\n\n");
-        CarRental arac = new CarRental();
+        
         /*
         Stogumuza arac ekleyecegim adminimiz arac eklemez ise arac listemiz bos kalmasin :)
          */
